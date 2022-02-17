@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-toast",
+  "version": "1.0.0",
+  "description": "test message plugin",
+  "cordova": {
+    "id": "cordova-plugin-toast",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresvas/cordova-plugin-Toast.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Andres vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresvas/cordova-plugin-Toast/issues"
+  },
+  "homepage": "https://github.com/andresvas/cordova-plugin-Toast#readme"
+}
